@@ -1,6 +1,6 @@
 # ssrf_video_converter
 
-./fil.py file://<filename> file_read.avi
+./fil.py file://filename file_read.avi
   
 Upload file_read.avi to some website that processes videofiles
 
